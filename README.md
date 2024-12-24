@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎光临,z_z)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎光临,z_z,喜欢有结果的人和事)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luozhihao99)
-[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=luozhihao99)](https://github.com/IceEnd)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luozhihao99) ![](https://stats.justsong.cn/api/github?username=luozhihao99&lang=zh-CN) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luozhihao99) ![](https://stats.justsong.cn/api/github?username=luozhihao99&lang=zh-CN) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luozhihao99)
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=luozhihao99)](https://github.com/IceEnd) -->
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luozhihao99)
 
