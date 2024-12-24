@@ -3,13 +3,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎光临,z_z)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luozhihao99)
-![](https://stats.justsong.cn/api/github?username=luozhihao99&lang=zh-CN)
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=luozhihao99)](https://github.com/IceEnd)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luozhihao99) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luozhihao99) ![](https://stats.justsong.cn/api/github?username=luozhihao99&lang=zh-CN) -->
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luozhihao99)
 
-[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=luozhihao99)](https://github.com/IceEnd)
 
 <!--
 **luozhihao99/luozhihao99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
