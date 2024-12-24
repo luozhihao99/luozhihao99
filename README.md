@@ -5,11 +5,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luozhihao99)
 ![](https://stats.justsong.cn/api/github?username=luozhihao99&lang=zh-CN)
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=luozhihao99" />
-  <img src="https://stats.justsong.cn/api/github?username=luozhihao99&lang=zh-CN" />
-</div>
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luozhihao99) -->
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luozhihao99)
